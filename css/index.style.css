@@ -218,7 +218,7 @@ section ul li:before {
 header {
 	background-image: url(../images/background1.jpg);
 	background-repeat: none;
-	background-attachment: scroll;
+	background-attachment: fixed;
 	background-position: center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
