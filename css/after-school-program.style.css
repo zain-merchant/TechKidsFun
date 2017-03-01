@@ -93,11 +93,9 @@ section ul li:before {
 	color: #23AD21;
 }
 
-img{
-	max-width: 50px;
-	max-height: 50px;
+p{
+	font-size: 20px;
 }
-
 /*--------------------
 1.1 Reset bootstrap
 --------------------*/
@@ -226,7 +224,7 @@ img{
 }
 
 .section-title p {
-	font-size: 15px;
+	font-size: 20px;
 	font-weight: 300;
 	line-height: 25px;
 	margin: 20px 100px 60px 100px;

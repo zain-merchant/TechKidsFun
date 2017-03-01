@@ -216,9 +216,9 @@ section ul li:before {
 --------------------*/
 
 header {
-	background-image: url(../images/background1.jpg);
+	background-image: url(../images/background2.jpg);
 	background-repeat: none;
-	background-attachment: fixed;
+	background-attachment: scroll;
 	background-position: center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
