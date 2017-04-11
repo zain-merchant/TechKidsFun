@@ -48,7 +48,7 @@ h6 {
 	font-weight: 300;
 	letter-spacing: 0.4px;
 	font-family: "Open Sans", Sans-serif;
-	color: #FFFFFF;
+	color: black;
 }
 
 hr{
@@ -62,7 +62,7 @@ p {
 	font-weight: 300;
 	line-height: 23px;
 	letter-spacing: 0.2px;
-	color: #797979;
+	color: black;
 }
 
 .dark-bg p {
